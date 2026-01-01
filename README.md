@@ -1,5 +1,7 @@
 # QAE-CyberDefense
-mplementation of a Quantum Autoencoder (QAE) for DDoS attack detection using quantum-enhanced anomaly detection and latent space analysis.
+mplementation of a Quantum Autoencoder (QAE) for DDoS attack detection using quantum-enhanced anomaly detection and latent space analysis. 
+
+
 Prasyarat & Instalasi
 Pastikan kamu memiliki Python 3.8+ dan telah menginstal library yang diperlukan dengan cara 
 melakukan pip install requirements.txt jika tidak bisa seusaikan versi python anda dengan library anda.
